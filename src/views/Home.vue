@@ -6,7 +6,7 @@
             <div class="header_nav_container">
                 <div class="header_logo-container">
                     <router-link :to="{name: 'home'}">
-                        <img src="../assets/img/Kamba Balanganayi.svg" alt="Website logo, Kamba Balanganayi in Londrina Solid" class="header_logo">
+                        <img src="../assets/img/KambaBalanganayi.svg" alt="Website logo, Kamba Balanganayi in Londrina Solid" class="header_logo">
                     </router-link>
                 </div>
                 <div class="header_icon">
