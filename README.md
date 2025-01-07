@@ -1,7 +1,7 @@
-# Vue 3 + Vite
+# Vue 3 + Vite Photography portfolio
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+This project is a proof of concept made tu learn and utilise Vue.js and Vite as a development server before deployment and hosting on an online platform
 
-## Recommended IDE Setup
+## Leveraging Vue.js, HMTL, CSS and JavaScript
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+- Created by Kamba Balanganayi
