@@ -59,22 +59,22 @@
     <section class="section-photos">
         <article class="main-container">
             <div class="grid_layout">
-                <img loading="lazy" src="../assets/img/portraits/compressed/21.JPG" alt="" id="image1" class="grid-item">
+                <img loading="lazy" src="../assets/img/portraits/compressed/21.jpg" alt="" id="image1" class="grid-item">
                 <img loading="lazy" src="../assets/img/portraits/compressed/6.jpg" alt="" id="image2" class="grid-item">
-                <img loading="lazy" src="../assets/img/portraits/compressed/18.JPG" alt="" id="image3" class="grid-item">
+                <img loading="lazy" src="../assets/img/portraits/compressed/18.jpg" alt="" id="image3" class="grid-item">
                 <img loading="lazy" src="../assets/img/portraits/compressed/12.jpg" alt="" id="image4" class="grid-item">
-                <img loading="lazy" src="../assets/img/portraits/compressed/5.JPG" alt="" id="image5" class="grid-item">
-                <img loading="lazy" src="../assets/img/portraits/compressed/23.JPG" alt="" id="image6" class="grid-item">
-                <img loading="lazy" src="../assets/img/portraits/compressed/1.JPG" alt="" id="image7" class="grid-item">
-                <img loading="lazy" src="../assets/img/portraits/compressed/4.JPG" alt="" id="image8" class="grid-item">
-                <img loading="lazy" src="../assets/img/portraits/compressed/8.JPG" alt="" id="image9" class="grid-item">
+                <img loading="lazy" src="../assets/img/portraits/compressed/5.jpg" alt="" id="image5" class="grid-item">
+                <img loading="lazy" src="../assets/img/portraits/compressed/23.jpg" alt="" id="image6" class="grid-item">
+                <img loading="lazy" src="../assets/img/portraits/compressed/1.jpg" alt="" id="image7" class="grid-item">
+                <img loading="lazy" src="../assets/img/portraits/compressed/4.jpg" alt="" id="image8" class="grid-item">
+                <img loading="lazy" src="../assets/img/portraits/compressed/8.jpg" alt="" id="image9" class="grid-item">
                 <img loading="lazy" src="../assets/img/portraits/compressed/11.jpg" alt="" id="image10" class="grid-item">
                 <img loading="lazy" src="../assets/img/portraits/compressed/10.jpg" alt="" id="image11" class="grid-item">
                 <img loading="lazy" src="../assets/img/portraits/compressed/13.jpg" alt="" id="image12" class="grid-item">
                 <img loading="lazy" src="../assets/img/portraits/compressed/7.jpg" alt="" id="image13" class="grid-item">
                 <img loading="lazy" src="../assets/img/portraits/compressed/14.png" alt="" id="image14" class="grid-item">
                 <img loading="lazy" src="../assets/img/portraits/compressed/15.jpg" alt="" id="image15" class="grid-item">
-                <img loading="lazy" src="../assets/img/portraits/compressed/16.JPG" alt="" id="image16" class="grid-item">
+                <img loading="lazy" src="../assets/img/portraits/compressed/16.jpg" alt="" id="image16" class="grid-item">
                 <img loading="lazy" src="../assets/img/portraits/compressed/20.jpg" alt="" id="image17" class="grid-item">
                 <img loading="lazy" src="../assets/img/portraits/compressed/19.jpg" alt="" id="image18" class="grid-item">
                 <img loading="lazy" src="../assets/img/portraits/compressed/9.jpg" alt="" id="image19" class="grid-item">
