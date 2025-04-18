@@ -59,12 +59,12 @@
     <section class="section-photos">
         <article class="main-container">
             <div class="grid_layout">
-                <img loading="lazy" src="../assets/img/landscape/compressed/15.JPG" alt="" id="image1" class="grid-item">
+                <img loading="lazy" src="../assets/img/landscape/compressed/15.jpg" alt="" id="image1" class="grid-item">
                 <img loading="lazy" src="../assets/img/landscape/compressed/5.jpg" alt="" id="image2" class="grid-item">
-                <img loading="lazy" src="../assets/img/landscape/compressed/16.JPG" alt="" id="image3" class="grid-item">
-                <img loading="lazy" src="../assets/img/landscape/compressed/4.JPG" alt="" id="image4" class="grid-item">
-                <img loading="lazy" src="../assets/img/landscape/compressed/17.JPG" alt="" id="image5" class="grid-item">
-                <img loading="lazy" src="../assets/img/landscape/compressed/19.JPG" alt="" id="image6" class="grid-item">
+                <img loading="lazy" src="../assets/img/landscape/compressed/16.jpg" alt="" id="image3" class="grid-item">
+                <img loading="lazy" src="../assets/img/landscape/compressed/4.jpg" alt="" id="image4" class="grid-item">
+                <img loading="lazy" src="../assets/img/landscape/compressed/17.jpg" alt="" id="image5" class="grid-item">
+                <img loading="lazy" src="../assets/img/landscape/compressed/19.jpg" alt="" id="image6" class="grid-item">
                 <img loading="lazy" src="../assets/img/landscape/compressed/7.jpg" alt="" id="image7" class="grid-item">
                 <img loading="lazy" src="../assets/img/landscape/compressed/8.jpg" alt="" id="image8" class="grid-item">
                 <img loading="lazy" src="../assets/img/landscape/compressed/9.jpg" alt="" id="image9" class="grid-item">
@@ -75,7 +75,7 @@
                 <div id="image12" class="grid-item">
                     <video src="../assets/img/landscape/compressed/12.mp4" alt="" width="100%" loop autoplay muted></video>
                 </div>
-                <img loading="lazy" src="../assets/img/landscape/compressed/18.JPG" alt="" id="image13" class="grid-item">
+                <img loading="lazy" src="../assets/img/landscape/compressed/18.jpg" alt="" id="image13" class="grid-item">
             </div>
         </article>
     </section>
