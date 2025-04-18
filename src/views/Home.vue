@@ -69,7 +69,7 @@
                     <img loading="lazy" src="../assets/img/street/compressed/10.jpg" alt="" id="image3" class="grid-item">
                 </div>
                 <div class="grid-item" id="image4">
-                    <img loading="lazy" src="../assets/img/street/compressed/6.JPG" alt="" id="image4" class="grid-item">
+                    <img loading="lazy" src="../assets/img/street/compressed/6.jpg" alt="" id="image4" class="grid-item">
                 </div>
                 <div  id="image5" class="grid-item">
                     <video src="../assets/video/compressed/PortfolioMix4.mp4" alt="" width="150%" loop autoplay muted></video>
@@ -78,10 +78,10 @@
                     <img loading="lazy" src="../assets/img/street/compressed/15.jpg" alt="" id="image6" class="grid-item">
                 </div>
                 <div class="grid-item" id="image7">
-                    <img loading="lazy" src="../assets/img/portraits/compressed/1.JPG" alt="" id="image7" class="grid-item">
+                    <img loading="lazy" src="../assets/img/portraits/compressed/1.jpg" alt="" id="image7" class="grid-item">
                 </div>
                 <div class="grid-item" id="image8">
-                    <img loading="lazy" src="../assets/img/portraits/compressed/8.JPG" alt="" id="image8" class="grid-item">
+                    <img loading="lazy" src="../assets/img/portraits/compressed/8.jpg" alt="" id="image8" class="grid-item">
                 </div>
                 <div class="grid-item" id="image9">
                     <img loading="lazy" src="../assets/img/street/compressed/9.jpg" alt="" id="image9" class="grid-item">
@@ -108,7 +108,7 @@
                     <img loading="lazy" src="../assets/img/street/compressed/25.jpg" alt="" id="image16" class="grid-item">
                 </div>
                 <div class="grid-item" id="image17">
-                    <img loading="lazy" src="../assets/img/street/compressed/7.JPG" alt="" id="image17" class="grid-item">
+                    <img loading="lazy" src="../assets/img/street/compressed/7.jpg" alt="" id="image17" class="grid-item">
                 </div>
                 <div class="grid-item" id="image18">
                     <img loading="lazy" src="../assets/img/street/compressed/19.jpg" alt="" id="image18" class="grid-item">
@@ -117,10 +117,10 @@
                     <img loading="lazy" src="../assets/img/landscape/compressed/15.jpg" alt="" id="image19" class="grid-item">
                 </div>
                 <div class="grid-item" id="image20">
-                    <img loading="lazy" src="../assets/img/portraits/compressed/23.JPG" alt="" id="image20" class="grid-item">
+                    <img loading="lazy" src="../assets/img/portraits/compressed/23.jpg" alt="" id="image20" class="grid-item">
                 </div>
                 <div class="grid-item" id="image21">
-                    <img loading="lazy" src="../assets/img/street/compressed/8.JPG" alt="" id="image21" class="grid-item">
+                    <img loading="lazy" src="../assets/img/street/compressed/8.jpg" alt="" id="image21" class="grid-item">
                 </div>
             </div>
         </article>
